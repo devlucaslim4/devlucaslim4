@@ -116,11 +116,31 @@ Processos -> Analise -> Automacao Python -> IA Aplicada -> Experiencia Digital
 
 ## Insights do GitHub
 
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Perfil tecnico</strong>
+      <br />
+      Desenvolvimento web, Python, automacao, IA aplicada e analise de processos.
+    </td>
+    <td width="33%">
+      <strong>Linguagens em foco</strong>
+      <br />
+      HTML, CSS, JavaScript e Python como base para projetos digitais e automacoes.
+    </td>
+    <td width="33%">
+      <strong>Direcao atual</strong>
+      <br />
+      Construir projetos praticos unindo IA, automacao e experiencia digital.
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=devlucaslim4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=CBD5E1&icon_color=60A5FA" alt="Estatisticas do GitHub" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucaslim4&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F8FAFC&text_color=CBD5E1" alt="Linguagens mais usadas" />
+<a href="https://github.com/devlucaslim4?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver%20repositorios-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios" />
+</a>
 
 </div>
 
