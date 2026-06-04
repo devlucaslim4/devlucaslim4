@@ -35,7 +35,7 @@ Sou **Lucas Lima**, desenvolvedor em formação com foco em **back-end**, **APIs
 
 Atualmente estudo **Python**, **Django**, **Flask**, **FastAPI**, **PHP**, **Laravel**, **JavaScript**, **Node.js**, **React** e bancos de dados relacionais como **Oracle**, **PostgreSQL** e **SQL**.
 
-Meu objetivo é evoluir na criação de sistemas robustos, organizados e bem estruturados, conectando regra de negócio, persistência de dados e interfaces web modernas.
+Meu objetivo é evoluir na criação de sistemas robustos, organizados e bem estruturados, conectando regras de negócio, persistência de dados e interfaces web modernas.
 
 ---
 
