@@ -1,17 +1,17 @@
 <!--
 README de perfil GitHub - Lucas Lima | devlucaslim4
-Edite links, projetos e textos conforme evoluir seu portfolio.
+Visual dark minimalista com foco em back-end.
 -->
 
 <div align="center">
 
-<img src="./assets/ai-neural-banner.svg" alt="Lucas Lima banner IA" width="100%" />
+<img src="./assets/backend-dark-banner.svg" alt="Lucas Lima backend developer banner" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Desenvolvimento+Web+com+visao+de+produto;Inteligencia+Artificial+aplicada+a+processos;Automacoes+com+Python+para+ganho+operacional;Interfaces+modernas%2C+minimalistas+e+funcionais" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Back-end+development;Python+%7C+Django+%7C+Flask+%7C+FastAPI;PHP+%7C+Laravel;Node.js+%7C+APIs+%7C+SQL+databases" alt="Typing animation" />
 
-<h3>Transformando processos e experiencias digitais com IA e automacao.</h3>
+### Construindo APIs, sistemas back-end e solucoes orientadas a dados.
 
 <p>
   <a href="mailto:limaadev@outlook.com">
@@ -29,184 +29,153 @@ Edite links, projetos e textos conforme evoluir seu portfolio.
 
 ---
 
-## Perfil
+## Sobre
 
-Sou **Lucas Lima**, desenvolvedor focado em unir **desenvolvimento web**, **inteligencia artificial aplicada**, **automacao com Python** e **analise de processos**.
+Sou **Lucas Lima**, desenvolvedor em formacao com foco em **back-end**, **APIs**, **banco de dados** e construcao de sistemas web.
 
-Meu foco esta em construir solucoes que diminuem trabalho manual, organizam informacoes, melhoram fluxos e entregam experiencias digitais com visual moderno, minimalista e profissional.
+Atualmente estudo **Python**, **Django**, **Flask**, **FastAPI**, **PHP**, **Laravel**, **JavaScript**, **Node.js**, **React** e bancos de dados relacionais como **Oracle**, **PostgreSQL** e **SQL**.
 
-<div align="center">
-
-`IA aplicada` `Automacao Python` `Web moderna` `Analise de processos` `Experiencia digital`
-
-</div>
+Meu objetivo e evoluir na criacao de sistemas robustos, organizados e bem estruturados, conectando regra de negocio, persistencia de dados e interfaces web modernas.
 
 ---
 
-## Sistema de foco
+## Foco tecnico
 
 <table>
   <tr>
     <td width="25%" align="center">
-      <h3>01</h3>
-      <strong>Mapear</strong>
-      <br />
-      <sub>Processos, dores, gargalos e oportunidades.</sub>
+      <h3>Back-end</h3>
+      <sub>APIs, regras de negocio, autenticacao e servicos.</sub>
     </td>
     <td width="25%" align="center">
-      <h3>02</h3>
-      <strong>Automatizar</strong>
-      <br />
-      <sub>Scripts, rotinas, integracoes e fluxos em Python.</sub>
+      <h3>Python</h3>
+      <sub>Django, Flask, FastAPI e automacoes.</sub>
     </td>
     <td width="25%" align="center">
-      <h3>03</h3>
-      <strong>Inteligir</strong>
-      <br />
-      <sub>IA aplicada para apoio, analise e decisao.</sub>
+      <h3>PHP</h3>
+      <sub>Laravel, MVC, rotas, controllers e models.</sub>
     </td>
     <td width="25%" align="center">
-      <h3>04</h3>
-      <strong>Entregar</strong>
-      <br />
-      <sub>Interfaces limpas, responsivas e funcionais.</sub>
+      <h3>Database</h3>
+      <sub>Modelagem, consultas SQL, Oracle e PostgreSQL.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## Stack principal
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,php,laravel,js,nodejs,react,postgres,sqlite,git,github,vscode" alt="Tech stack" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=38BDF8" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=60A5FA" alt="Python" />
-<img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F97316" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=60A5FA" alt="Python" />
+<img src="https://img.shields.io/badge/Django-020617?style=for-the-badge&logo=django&logoColor=22C55E" alt="Django" />
+<img src="https://img.shields.io/badge/Flask-020617?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=14B8A6" alt="FastAPI" />
+<img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=8993BE" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-020617?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" alt="Node.js" />
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Oracle-020617?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle" />
+<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
 
 </div>
 
 ---
 
-## IA e automacao
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Inteligencia Artificial aplicada</h3>
-      <p>
-        Estudo o uso pratico de IA para analise, estruturacao de informacoes, apoio a decisao,
-        geracao de conteudo tecnico e criacao de fluxos mais inteligentes.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Prompts-111827?style=flat-square&logo=openai&logoColor=white" alt="Prompts" />
-        <img src="https://img.shields.io/badge/Agentes-111827?style=flat-square&logo=openai&logoColor=60A5FA" alt="Agentes" />
-        <img src="https://img.shields.io/badge/Analise-111827?style=flat-square&logo=linear&logoColor=white" alt="Analise" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Automacao com Python</h3>
-      <p>
-        Crio scripts e rotinas para reduzir tarefas repetitivas, organizar dados, integrar ferramentas,
-        gerar relatórios e tornar processos mais previsiveis.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=60A5FA" alt="Python" />
-        <img src="https://img.shields.io/badge/Workflows-111827?style=flat-square&logo=githubactions&logoColor=60A5FA" alt="Workflows" />
-        <img src="https://img.shields.io/badge/Processos-111827?style=flat-square&logo=linear&logoColor=white" alt="Processos" />
-      </p>
-    </td>
-  </tr>
-</table>
+## Back-end roadmap
 
 ```text
-input: processo manual
-  -> analise do fluxo
-  -> automacao Python
-  -> inteligencia artificial aplicada
-  -> interface digital clara
-output: menos atrito, mais velocidade e melhor experiencia
+HTTP request
+  -> routes
+  -> controllers / views
+  -> services
+  -> validation
+  -> database
+  -> response
 ```
-
----
-
-## Projetos em destaque
-
-<!-- Substitua os links por repositorios reais quando quiser destacar seus projetos. -->
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>AI Process Assistant</h3>
-      <p>Assistente para analisar processos, identificar gargalos e sugerir automacoes com apoio de IA.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=60A5FA" alt="Python" />
-        <img src="https://img.shields.io/badge/IA-020617?style=flat-square&logo=openai&logoColor=white" alt="IA" />
-        <img src="https://img.shields.io/badge/Processos-020617?style=flat-square&logo=linear&logoColor=white" alt="Processos" />
-      </p>
-      <a href="https://github.com/devlucaslim4">Ver projeto</a>
+    <td width="33%" valign="top">
+      <h3>APIs</h3>
+      <p>Criação de endpoints, organização de rotas, validações, autenticação e integração entre sistemas.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Automation Lab</h3>
-      <p>Laboratorio de scripts para automacao de tarefas, organizacao de dados e integracao entre ferramentas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=60A5FA" alt="Python" />
-        <img src="https://img.shields.io/badge/Automacao-020617?style=flat-square&logo=githubactions&logoColor=60A5FA" alt="Automacao" />
-      </p>
-      <a href="https://github.com/devlucaslim4">Ver projeto</a>
+    <td width="33%" valign="top">
+      <h3>Banco de dados</h3>
+      <p>Estudo de modelagem, relacionamentos, consultas SQL, PostgreSQL, Oracle e boas práticas de persistência.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Minimal Web Interface</h3>
-      <p>Interface moderna, responsiva e minimalista para transformar ideias em experiencias digitais claras.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-020617?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-020617?style=flat-square&logo=css3&logoColor=38BDF8" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-      </p>
-      <a href="https://github.com/devlucaslim4">Ver projeto</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Project Analysis Toolkit</h3>
-      <p>Estrutura para documentar, comparar e priorizar projetos com foco em impacto, clareza e execucao.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Analise-020617?style=flat-square&logo=linear&logoColor=white" alt="Analise" />
-        <img src="https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      </p>
-      <a href="https://github.com/devlucaslim4">Ver projeto</a>
+    <td width="33%" valign="top">
+      <h3>Arquitetura</h3>
+      <p>Separação de responsabilidades, organização de camadas, legibilidade e manutenção de código.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Evolucao profissional
+## Projetos em evolucao
 
-| Fase | Direcao |
-|---|---|
-| Fundamentos | HTML, CSS, JavaScript, logica e Git |
-| Automacao | Python, scripts, rotinas e integracoes |
-| Processos | Analise de fluxos, projetos e melhoria operacional |
-| IA aplicada | Prompts, agentes, automacao inteligente e apoio a decisao |
-| Experiencia digital | Interfaces modernas, minimalistas e orientadas a resultado |
+<!-- Substitua os links abaixo por repositorios reais quando publicar seus projetos. -->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>API com FastAPI</h3>
+      <p>API REST com rotas, validação de dados, documentação automática e persistência em banco relacional.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=14B8A6" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
+      </p>
+      <a href="https://github.com/devlucaslim4">Ver repositorios</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Sistema com Django</h3>
+      <p>Aplicação web com autenticação, painel administrativo, models, views e templates organizados.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=22C55E" alt="Django" />
+        <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+      </p>
+      <a href="https://github.com/devlucaslim4">Ver repositorios</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CRUD com Laravel</h3>
+      <p>Projeto em PHP/Laravel com rotas, controllers, migrations, models e organização MVC.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+        <img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=8993BE" alt="PHP" />
+      </p>
+      <a href="https://github.com/devlucaslim4">Ver repositorios</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Node.js API</h3>
+      <p>API com JavaScript e Node.js, preparada para integração com front-end React e banco de dados.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=22C55E" alt="Node.js" />
+        <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=38BDF8" alt="React" />
+      </p>
+      <a href="https://github.com/devlucaslim4">Ver repositorios</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Objetivos atuais
+## Estudos atuais
 
-- Aprofundar estudos em **inteligencia artificial aplicada**.
-- Criar automacoes com **Python** para resolver problemas reais.
-- Desenvolver interfaces modernas, minimalistas e responsivas.
-- Unir **IA + automacao + experiencia digital** em projetos praticos.
-- Evoluir em analise de processos, documentacao e execucao de projetos.
+- Python para back-end e automações.
+- Django, Flask e FastAPI para criação de sistemas e APIs.
+- PHP e Laravel com arquitetura MVC.
+- JavaScript, Node.js e React para aplicações web completas.
+- Banco de dados relacional com PostgreSQL, Oracle e SQL.
+- Boas práticas de organização, versionamento e documentação.
 
 ---
 
@@ -226,6 +195,6 @@ output: menos atrito, mais velocidade e melhor experiencia
 
 <br /><br />
 
-<sub>Design minimalista. Codigo limpo. Processos inteligentes.</sub>
+<sub>Back-end, bancos de dados e sistemas web.</sub>
 
 </div>
