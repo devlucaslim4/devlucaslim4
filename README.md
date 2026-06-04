@@ -11,7 +11,7 @@ Visual dark minimalista com foco em back-end.
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Back-end+development;Python+%7C+Django+%7C+Flask+%7C+FastAPI;PHP+%7C+Laravel;Node.js+%7C+APIs+%7C+SQL+databases" alt="Typing animation" />
 
-### Construindo APIs, sistemas back-end e solucoes orientadas a dados.
+### Construindo APIs, sistemas back-end e soluções orientadas a dados.
 
 <p>
   <a href="mailto:limaadev@outlook.com">
@@ -31,25 +31,25 @@ Visual dark minimalista com foco em back-end.
 
 ## Sobre
 
-Sou **Lucas Lima**, desenvolvedor em formacao com foco em **back-end**, **APIs**, **banco de dados** e construcao de sistemas web.
+Sou **Lucas Lima**, desenvolvedor em formação com foco em **back-end**, **APIs**, **banco de dados** e construção de sistemas web.
 
 Atualmente estudo **Python**, **Django**, **Flask**, **FastAPI**, **PHP**, **Laravel**, **JavaScript**, **Node.js**, **React** e bancos de dados relacionais como **Oracle**, **PostgreSQL** e **SQL**.
 
-Meu objetivo e evoluir na criacao de sistemas robustos, organizados e bem estruturados, conectando regra de negocio, persistencia de dados e interfaces web modernas.
+Meu objetivo é evoluir na criação de sistemas robustos, organizados e bem estruturados, conectando regra de negócio, persistência de dados e interfaces web modernas.
 
 ---
 
-## Foco tecnico
+## Foco técnico
 
 <table>
   <tr>
     <td width="25%" align="center">
       <h3>Back-end</h3>
-      <sub>APIs, regras de negocio, autenticacao e servicos.</sub>
+      <sub>APIs, regras de negócio, autenticação e serviços.</sub>
     </td>
     <td width="25%" align="center">
       <h3>Python</h3>
-      <sub>Django, Flask, FastAPI e automacoes.</sub>
+      <sub>Django, Flask, FastAPI e automações.</sub>
     </td>
     <td width="25%" align="center">
       <h3>PHP</h3>
